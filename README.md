@@ -1,1 +1,1 @@
-https://jyldyzbek1.github.io/Game-number/Game/index.html
+ https://jyldyzbek1.github.io/Game-number/Game/index.html
