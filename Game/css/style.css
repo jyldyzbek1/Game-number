@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+
+    background-color: black;
+}
+
+#game {
+    color: white;
+}
+
+p {
+    color: wheat;
+}
+
+
+#guess-input {
+    margin-top: 20px;
+}
